@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://foodrisod.github.io/sitemap.xml
